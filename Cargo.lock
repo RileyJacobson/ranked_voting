@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "ranked_vote"
+name = "ranked_voting"
 version = "0.1.0"

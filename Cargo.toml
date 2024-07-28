@@ -1,5 +1,5 @@
 [package]
-name = "ranked_vote"
+name = "ranked_voting"
 version = "0.1.0"
 edition = "2021"
 
